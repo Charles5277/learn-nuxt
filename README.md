@@ -25,3 +25,11 @@ pnpm dev
 
 # 建置專案
 pnpm build
+```
+
+## 文檔
+- Nuxt UI 3
+  - [Nuxt UI 3](https://ui3.nuxt.dev/getting-started)
+- Tailwind CSS 4
+  - [Tailwind CSS 4 for new change](https://tailwindcss.com/blog/tailwindcss-v4-alpha)
+  - [Tailwind CSS 3 docs](https://tailwindcss.com/docs/installation)
